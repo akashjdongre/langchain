@@ -1,0 +1,2 @@
+langchain               # install the LangChain package:
+langchain-anthropic     # install the LangChain package with Anthropic support
