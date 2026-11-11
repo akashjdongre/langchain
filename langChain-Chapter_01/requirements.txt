@@ -1,2 +1,3 @@
 langchain               # install the LangChain package:
 langchain-anthropic     # install the LangChain package with Anthropic support
+streamlit               # install the Streamlit package for building web apps
