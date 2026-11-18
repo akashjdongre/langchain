@@ -4,6 +4,8 @@ load_dotenv()
 from langchain.chat_models import init_chat_model
 import streamlit as st
 
+# Initialize the chat model
+
 llm = init_chat_model("claude-sonnet-4-6")
 
 st.title("LangChain Chatbot with Streamlit")
